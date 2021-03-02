@@ -1,0 +1,19 @@
+4. Sökfunktion till låtarna -------------------------------- (dun) bör kuna i morgon
+5. Soterings function -------------------------------------- () 
+
+1. En edit knap på listorna:
+    Ta bort låtar, lägga till låtar ------------------------ (dun)
+    Ändra ordningen ---------------------------------------- (dun)
+    uppdatera fornt end på playlist update ----------------- (dun) need testing
+
+3. Displaya mp3 spelare samt textbild ---------------------- () tomorow
+
+2. edit knap till låtar ------------------------------------ (dun)
+
+6. verifiera konto email ----------------------------------- () 
+
+Css för Iphad ---------------------------------------------- ()
+
+
+Buggar:
+- låtarna följer inte ordningen i från NumberInLine variabeln
